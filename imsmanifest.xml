@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5dt4v72JTIH_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Ventilation and perfusion QUIZ</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Ventilation_and_perfusion_QUIZ_ORG">
+    <organization identifier="Ventilation_and_perfusion_QUIZ_ORG">
+      <title>Ventilation and perfusion QUIZ</title>
+      <item identifier="Infectious_DiseaseMalaria_SCO" isvisible="true" identifierref="__5dt4v72JTIH_course_id_RES">
+        <title>Ventilation and perfusion QUIZ</title>
+        <adlcp:masteryscore>60</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5dt4v72JTIH_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6deN7OA6kMy_X_80_P_336_204_1321_691.jpg" />
+      <file href="mobile/6NrXoX8NKJ3.png" />
+      <file href="mobile/6Go4CESNwDy_P_511_124_473_450.png" />
+      <file href="mobile/6Q7yHlhT6OS.png" />
+      <file href="mobile/5oyKBtDj9TF_M_1002_1002.png" />
+      <file href="mobile/5iqQeHYist0_M_1952_1952_P_298_83_540_622.png" />
+      <file href="mobile/5VK11SF26Yv_P_0_0_1730_1424.png" />
+      <file href="mobile/6gttv9FzVdX_80_P_512_284_768_469.jpg" />
+      <file href="mobile/5mAGvUwTje0_M_1442_1442.png" />
+      <file href="mobile/66TkyfsbPGl_M_1396_1396.png" />
+      <file href="mobile/6XNwyXRHJCJ_M_1406_1406.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6DG7Jt5TwHq.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aGjPnFAFoe.js" />
+      <file href="html5/data/js/5d8rrOcnbmL.js" />
+      <file href="html5/data/js/5d9kGXsDhEO.js" />
+      <file href="html5/data/js/5djm2XHRWjx.js" />
+      <file href="html5/data/js/5eHxcMtWeM9.js" />
+      <file href="html5/data/js/5f7fcSnEiKe.js" />
+      <file href="html5/data/js/5ivQTutinND.js" />
+      <file href="html5/data/js/5pheorUWhuJ.js" />
+      <file href="html5/data/js/5ulfibMzy3u.js" />
+      <file href="html5/data/js/5vIaQYjGZYB.js" />
+      <file href="html5/data/js/5wdo9OPDw5z.js" />
+      <file href="html5/data/js/5YDsjLoWaoA.js" />
+      <file href="html5/data/js/602nIHbLiaZ.js" />
+      <file href="html5/data/js/6aw2cqHFPUr.js" />
+      <file href="html5/data/js/6BBifhrrtW1.js" />
+      <file href="html5/data/js/6CEBwtBXiDu.js" />
+      <file href="html5/data/js/6dO1Gi7HENX.js" />
+      <file href="html5/data/js/6F9P6cioufh.js" />
+      <file href="html5/data/js/6iELsAPWn7d.js" />
+      <file href="html5/data/js/6lc3F1FFWUg.js" />
+      <file href="html5/data/js/6LXJdE9xEKU.js" />
+      <file href="html5/data/js/6nPu4gqRCCu.js" />
+      <file href="html5/data/js/6YKWHq6og0x.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
